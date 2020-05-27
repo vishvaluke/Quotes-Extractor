@@ -16,5 +16,5 @@ Script : Opens book’s <a href="http://goodreads.com">goodreads.com</a> page<br
 Input2: Number pages to scrape.<br>
 Output1: List of all extracted quotes as .txt format<br>
 Output2: Images of all extracted quotes whose length is less than  80.</p>
-<p>#Check Out the found folder for sample images of certain books and list of quotes crawled.</p>
+<b>Check Out the found folder for sample images of certain books and list of quotes crawled.</b>
 
