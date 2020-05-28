@@ -1,5 +1,3 @@
-----
-----
 <h1 id="quotes-extractor">Quotes Extractor</h1>
 <p>This Python script was developed to collect quotes from books on <a href="http://goodreads.com">goodreads.com</a> and show them as images, ready to post to social media sites.</p>
 <p>This was inspired of @finnthormeier 's concept to pull quotes from specially handpicked books and display them in specially built book accounts on Instagram.</p>
